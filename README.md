@@ -21,4 +21,4 @@ https://flight-fare-predictor-staging.b12sites.com/
 ## 👨‍💻 Author
 Ritesh Kumar Chaudhary
 
-## Made using B12 AI website creator
+## Made using B12
