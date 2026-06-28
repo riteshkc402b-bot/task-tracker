@@ -1,12 +1,3 @@
-# ============================================================
-#  Flight Fare Prediction — High Accuracy Edition
-#  Target MAE : ~1000 INR
-#  Techniques : Log-target transform, outlier removal,
-#               hyperparameter tuning, stacking meta-model,
-#               optimized ensemble weights
-#  Usage      : python flight_fare_prediction.py
-# ============================================================
-
 import os
 import warnings
 import pandas as pd
