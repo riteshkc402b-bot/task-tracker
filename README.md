@@ -1,4 +1,3 @@
-# This is a Demo Project Lul
 # ✈️ Flight Fare Predictor
 
 A Machine Learning project that predicts flight ticket prices using regression models such as Linear Regression, Random Forest, and XGBoost.
@@ -21,3 +20,5 @@ https://flight-fare-predictor-staging.b12sites.com/
 
 ## 👨‍💻 Author
 Ritesh Kumar Chaudhary
+
+## Made using B12 AI website creator
